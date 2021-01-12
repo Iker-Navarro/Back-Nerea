@@ -1,0 +1,1 @@
+glassfish4.0.exe -j "C:\Program Files\Java\jre1.8.0_172"
